@@ -1,3 +1,3 @@
-# My-First-Repository
+# Subscriptions
 
 Learning how to use GitHub
