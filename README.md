@@ -1,3 +1,3 @@
 # Subscriptions
 
-Learning how to use GitHub
+These are the Subscription Screenshots - Excercise 1
